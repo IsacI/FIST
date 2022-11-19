@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY CURRICULO</title>
+
+</head>
+
+<body style="background-color: black;">
+    <h1 style="color: red;"> 
+        ISAC NARCIZO BARONI BAZZANI</h1>
+
+    <img width="500"
+        src="https://img.quizur.com/f/img61a90dab78dbb8.81298788.jpg?lastEdited=1638469044"
+        alt="">
+        <h1 style="color: red;">DADOS PESSOAIS</h1>
+        <ul>
+            <li style="color: azure;">Isac Narcizo Baroni Bazzani, 19 anos, Sou de Indaiatuba,SP,</li><BR>
+            <li style="color: azure;">Gênero masculino, Peso menos que o normal</li><BR>
+            <li style="color: azure;">Tenho 1,77 Metros</li><BR>
+            <LI style="color: azure;">Minha nacionalidade e a Brasileira</LI><BR>
+            <LI style="color: azure;">Meu celular e (55)199999999 confia </LI><br>
+        </ul>
+    <h1 style="color: red;">HARD SKILLS</h1>
+    <ul>
+
+        <li style="color: azure;">Ads - analise desenvolvimento de sistemas</li><BR>
+        <li style="color: azure;">Técnico mecatrônica</li><BR>
+        <li style="color: azure;">Gestão administrativo</li><BR>
+    </ul>
+    <h1 style="color: red;">SOFT SKILLS</h1>
+    <ul>
+        <li style="color: azure;">inteligencia emocional</li><BR>
+        <li style="color: azure;">liderança</li><BR>
+        <li style="color: azure;">Determinação</li><BR>
+        <li style="color: azure;">Persistência</li><BR>
+
+    </ul>
+            <h1 style="color: red;">EXPERIENCIA PROFISSIONAL</h1><BR>
+            <ul>
+                <li style="color: azure;">Estágio de adiminstração</li><BR>
+                <li style="color: azure;">estagio em mecatrônica</li><BR>
